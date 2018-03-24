@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/eng-habib/mothership'
+let g:netrw_dirhist_2='/home/eng-habib/go/src/github.com/bukalapak/annex'
+let g:netrw_dirhist_3='/home/eng-habib/go/src/github.com/bukalapak'
+let g:netrw_dirhist_4='/home/eng-habib/go/src/github.com/bukalapak/annex'
+let g:netrw_dirhist_5='/home/eng-habib/go/src/github.com/harkce/gowiki'
+let g:netrw_dirhist_6='/home/eng-habib/Documents/ruby-hardway'
+let g:netrw_dirhist_7='/home/eng-habib/Documents/ruby-hardway/ex-1'
+let g:netrw_dirhist_8='/home/eng-habib/Documents/ruby-hardway'
+let g:netrw_dirhist_9='/home/eng-habib/go/src/github.com/bukalapak/annex'
